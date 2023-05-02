@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'Built-In Node'
+      label 'master'
       customWorkspace "D:\\ThirdPersonAdventureWorkspace"//use backward slashes to avoid problems with how Windows uses directories!!
     }
   }//^all this is necessary to run the build in a special workspace.
