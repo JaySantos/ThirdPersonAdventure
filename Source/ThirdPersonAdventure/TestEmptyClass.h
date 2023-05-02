@@ -12,4 +12,5 @@ class THIRDPERSONADVENTURE_API TestEmptyClass
 public:
 	TestEmptyClass();
 	~TestEmptyClass();
+	void JustAFunction();
 };

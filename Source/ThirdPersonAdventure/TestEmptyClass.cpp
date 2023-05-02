@@ -10,3 +10,7 @@ TestEmptyClass::TestEmptyClass()
 TestEmptyClass::~TestEmptyClass()
 {
 }
+
+void TestEmptyClass::JustAFunction()
+{
+}
