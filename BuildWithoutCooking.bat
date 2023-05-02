@@ -1,4 +1,4 @@
-set ue4Location=%~1
+set ue5Location=%~1
 set workspace=%~2
 set projectFilename=%~3
 
